@@ -907,3 +907,143 @@ INFO 2021-02-06 11:37:45,634 basehttp 157 "GET /static/common/common.css HTTP/1.
 INFO 2021-02-06 11:37:45,637 basehttp 157 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
 INFO 2021-02-06 11:37:45,638 basehttp 157 "GET /static/img/1.jpg HTTP/1.1" 200 78682
 INFO 2021-02-06 11:37:45,640 basehttp 157 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-02-06 13:26:25,748 autoreload 617 Watching for file changes with StatReloader
+WARNING 2021-02-06 13:26:31,646 log 230 Not Found: /
+WARNING 2021-02-06 13:26:31,646 basehttp 157 "GET / HTTP/1.1" 404 2092
+INFO 2021-02-06 13:26:36,218 basehttp 157 "GET /register/ HTTP/1.1" 200 5208
+INFO 2021-02-06 14:35:19,738 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:35:20,614 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:37:35,496 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:37:36,294 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:37:41,455 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:37:42,239 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:38:01,122 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:38:01,918 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:38:36,912 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:38:37,657 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:38:46,142 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:38:46,872 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:39:50,700 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:39:51,455 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:40:22,753 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:40:23,469 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:40:58,773 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:40:59,573 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:41:22,270 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:41:22,990 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:42:23,416 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:42:24,223 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:43:23,901 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:43:24,617 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:43:47,272 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:43:48,043 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:43:54,270 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:43:55,000 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:44:15,757 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:44:16,584 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:44:45,834 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:44:46,560 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:45:05,439 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:45:06,160 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:48:20,872 autoreload 240 D:\Sephiroth\git\blog\blog\blog\settings.py changed, reloading.
+INFO 2021-02-06 14:48:21,612 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:48:26,819 autoreload 240 D:\Sephiroth\git\blog\blog\blog\settings.py changed, reloading.
+INFO 2021-02-06 14:48:27,523 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:49:15,066 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:49:15,832 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:49:29,088 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:49:29,812 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:53:25,713 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:53:26,508 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:54:29,671 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:54:30,418 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:54:55,216 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:54:55,997 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:55:21,789 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:55:22,546 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:55:40,548 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:55:41,313 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:55:49,954 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:55:50,717 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:56:26,726 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:56:27,505 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:56:41,906 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:56:42,671 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:57:42,031 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:57:42,803 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:57:57,373 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 14:57:58,120 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:58:25,995 autoreload 240 D:\Sephiroth\git\blog\blog\users\urls.py changed, reloading.
+INFO 2021-02-06 14:58:26,766 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:59:36,087 autoreload 240 D:\Sephiroth\git\blog\blog\users\urls.py changed, reloading.
+INFO 2021-02-06 14:59:36,855 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 14:59:53,259 autoreload 240 D:\Sephiroth\git\blog\blog\users\urls.py changed, reloading.
+INFO 2021-02-06 14:59:54,005 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 15:00:09,473 autoreload 240 D:\Sephiroth\git\blog\blog\users\urls.py changed, reloading.
+INFO 2021-02-06 15:00:10,243 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 15:00:58,662 autoreload 617 Watching for file changes with StatReloader
+WARNING 2021-02-06 15:01:03,389 log 230 Not Found: /
+WARNING 2021-02-06 15:01:03,392 basehttp 157 "GET / HTTP/1.1" 404 2267
+ERROR 2021-02-06 15:02:00,145 log 230 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\Sephiroth\git\blog\blog\users\views.py", line 20, in get
+    uuid = request.Get.get('uuid')
+AttributeError: 'WSGIRequest' object has no attribute 'Get'
+ERROR 2021-02-06 15:02:00,148 basehttp 157 "GET /imagecode/?uuid=uuid111 HTTP/1.1" 500 77910
+ERROR 2021-02-06 15:02:29,825 log 230 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\Sephiroth\git\blog\blog\users\views.py", line 20, in get
+    uuid = request.Get.get('uuid')
+AttributeError: 'WSGIRequest' object has no attribute 'Get'
+ERROR 2021-02-06 15:02:29,827 basehttp 157 "GET /imagecode/?uuid=1234 HTTP/1.1" 500 78048
+INFO 2021-02-06 15:03:48,143 basehttp 157 "GET /imagecode?uuid=1234 HTTP/1.1" 301 0
+ERROR 2021-02-06 15:03:48,232 log 230 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Sephiroth\python\bookcity\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\Sephiroth\git\blog\blog\users\views.py", line 20, in get
+    uuid = request.Get.get('uuid')
+AttributeError: 'WSGIRequest' object has no attribute 'Get'
+ERROR 2021-02-06 15:03:48,233 basehttp 157 "GET /imagecode/?uuid=1234 HTTP/1.1" 500 78048
+INFO 2021-02-06 15:10:38,418 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 15:13:44,733 basehttp 157 "GET /imagecode/?uuid=0759 HTTP/1.1" 200 3423
+INFO 2021-02-06 15:22:57,776 basehttp 157 "GET /imagecode/?uuid=0369 HTTP/1.1" 200 2964
+INFO 2021-02-06 15:30:57,306 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 15:31:08,164 basehttp 157 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-02-06 15:32:12,944 basehttp 157 "GET /imagecode/?uuid=7708cc3a-2c61-44cc-9b57-7710db0e8bcf HTTP/1.1" 200 3466
+INFO 2021-02-06 15:42:54,755 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 15:42:56,026 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 16:24:42,813 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 16:25:15,187 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 16:25:16,530 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 16:25:21,510 basehttp 157 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-02-06 16:26:04,912 autoreload 240 D:\Sephiroth\git\blog\blog\users\views.py changed, reloading.
+INFO 2021-02-06 16:26:06,294 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 17:26:43,073 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-02-06 17:26:47,118 basehttp 157 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-02-06 17:26:47,222 basehttp 157 "GET /imagecode/?uuid=a35a2c36-860b-4090-991e-df1bf2dc4601 HTTP/1.1" 200 3168
+INFO 2021-02-06 17:26:55,298 basehttp 157 "GET /imagecode/?uuid=0e6c6a92-c639-4532-bceb-cd8f95dbf4ab HTTP/1.1" 200 3279
+INFO 2021-02-06 17:29:21,936 views 111 111111
+INFO 2021-02-06 17:30:01,501 basehttp 157 "GET /smscode/?mobile=13378693661&image_code=lkiv&uuid=0e6c6a92-c639-4532-bceb-cd8f95dbf4ab HTTP/1.1" 200 81

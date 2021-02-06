@@ -137,8 +137,8 @@ STATICFILES_DIRS = [
 ]
 
 # redis config
-CACHES = {
-    "default": {  # 默认 redis 0号库
+CACHES = {  # redis connection config
+    "default": {  # redis 0号库 存放验证码
         "BACKEND": "django_redis.cache.RedisCache",
         "LOCATION": "redis://127.0.0.1:6379/0",
         "OPTIONS": {
@@ -199,3 +199,5 @@ LOGGING = {
     }
 }
 
+# 替换系统User '子应用名.模型类型'
+AUTH_USER_MODEL = 'users.User'
